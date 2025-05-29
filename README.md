@@ -30,7 +30,7 @@ Drainage mechanisms of supraglacial lakes formed within an 11,600 km$`^{2}`$ Cen
     - (6) DOY of image when lake is first frozen up.
     - (7) one-through-nine numbering scheme for drainage type, where 'NaN' indicates rows removed that were formerly options 6 (slush), 7 (stream), and 9 (outside the ROI)).
 
-+ An Excel spreadsheet [lake_typeing_2022_2023](./catalogues/lake_typeing_2022_2023_250505_archive.xlsx) detailing all potential lake locations identified in 2022 and 2023, with visually-logged image dates of: initial lake filling, maximum lake surface area, last pre-drainage basin, initial post-drainage basin, and initial frozen lake surface. The latitude and longitide of each lake is also provided.
++ An Excel spreadsheet [lake_typeing_2022_2023](./catalogues/lake_typeing_2022_2023_250505_archive.xlsx) detailing all potential lake locations identified in 2022 and 2023, with visually-logged image dates of: initial lake formation, maximum lake surface area, last pre-drainage basin, initial post-drainage basin, and initial frozen lake surface. The latitude and longitide of each lake is also provided.
 
   
 ##  Supraglacial lake maximum extent and drainage mechanism in (a) 2022 and (b) 2023:
