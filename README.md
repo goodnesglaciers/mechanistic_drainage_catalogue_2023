@@ -33,9 +33,9 @@ Drainage mechanisms of supraglacial lakes formed within an 11,600 km$`^{2}`$ Cen
 + An Excel spreadsheet [lake_typeing_2022_2023](./catalogues/lake_typeing_2022_2023_250505_archive.xlsx) detailing all potential lake locations identified in 2022 and 2023, with visually-logged image dates of: initial lake formation, maximum lake surface area, last pre-drainage basin, initial post-drainage basin, and initial frozen lake surface. The latitude and longitide of each lake is also provided.
 
   
-##  Supraglacial lake maximum extent and drainage mechanism in (a) 2022 and (b) 2023:
-![paperfigS2_map_fullROI_250421](https://github.com/user-attachments/assets/abcee9c2-4f31-46ed-a450-4bbcfd70e394)
-Repository Figure 1. Maximum extent and drainage mechanism for lakes within, and nearby, the (a) 2022 and (b) 2023 GNSS arrays.  Map shows the full ice-sheet region of the FASTER analysis; blue boundary encloses the region of interest (ROI) for examining lakes relevant to GNSS-instrumented lakes and moulins.  Lakes are colored by their drainage mechanism: (gold) hydro-fracture drainage, (blue) overspill drainage, (teal) moulin drainage, and (plum) a no-exit, frozen lake.  Days of year of hydro-fracture and moulin-drainage events identified from the Sentinel-1/2 analysis shown with black numbers. Grey lines show 100-m ice-sheet surface elevation; colormap shows bed elevation (_Morlighem et al.,_ 2017; 2022).  Map origin is the 2011 position of the “North Lake” M1 moulin (68.72 ˚N 49.53 ˚W) identified in _Stevens et al._ (2015; 2018; 2024). 
+##  Supraglacial lake identification number, maximum extent, and drainage mechanism in (a) 2022 and (b) 2023:
+![paperfigS2_map_fullROI_IDs_250604](https://github.com/user-attachments/assets/1d8b3d72-d397-41ca-af3b-a3cd0a9b3ae5)
+Repository Figure 1. Maximum extent and drainage mechanism for lakes within, and nearby, the (a) 2022 and (b) 2023 GNSS arrays. Black numbers show lake identification number. Map shows the full ice-sheet region of the FASTER analysis; blue boundary encloses the region of interest (ROI) for examining lakes relevant to GNSS-instrumented lakes and moulins. Lakes are colored by their drainage mechanism: (gold) hydro-fracture drainage, (blue) overspill drainage, (teal) moulin drainage, and (plum) a no-exit, frozen lake. Grey lines show 100-m ice-sheet surface elevation; colormap shows bed elevation (_Morlighem et al.,_ 2017; 2022).  Map origin is the 2011 position of the “North Lake” M1 moulin (68.72 ˚N 49.53 ˚W) identified in _Stevens et al._ (2015; 2018; 2024). 
 
 
 ## References
