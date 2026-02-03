@@ -1,5 +1,5 @@
 ## Mechanistic Lake-Drainage Catalogue for 2023 (_Stevens et al.,_ In review)
-Drainage mechanisms of supraglacial lakes formed within an 11,600 km$`^{2}`$ Central West Greenland ice-sheet region in 2023. Lake surface areas for lakes that surpass a minimum lake-surface-area threshold of 0.165 km$`^{2}`$ are tracked using the FASTER algorithm (_Williamson_, 2018; _Williamson et al.,_ 2018).  A total of 406 potential lake locations in 2023 are identified, for which we independently inspect for timing of lake filling, draining, and lake-drainage features, using all available Sentinel-1 and Sentinel-2 images. 
+Drainage mechanisms of supraglacial lakes formed within an 11,600 km$`^{2}`$, central west region of the Greenland Ice Sheet in 2023. Lake surface areas for lakes that surpass a minimum lake-surface-area threshold of 0.165 km$`^{2}`$ are tracked using the FASTER algorithm (_Williamson_, 2018; _Williamson et al.,_ 2018).  A total of 406 potential lake locations in 2023 are identified, for which we independently inspect for timing of lake filling, draining, and lake-drainage features, using all available Sentinel-1 and Sentinel-2 images. 
 
 ## **This repository includes:**
 
