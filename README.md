@@ -38,6 +38,9 @@ Drainage mechanisms of supraglacial lakes formed within an 11,600 km$`^{2}`$, ce
 Repository Figure 1. Maximum extent and drainage mechanism for lakes within, and nearby, the (a) 2022 and (b) 2023 GNSS arrays. Black numbers show lake identification number. Map shows the full ice-sheet region of the FASTER analysis; blue boundary encloses the region of interest (ROI) for examining lakes relevant to GNSS-instrumented lakes and moulins. Lakes are colored by their drainage mechanism: (gold) hydro-fracture drainage, (blue) overspill drainage, (teal) moulin drainage, and (plum) a no-exit, frozen lake. Grey lines show 100-m ice-sheet surface elevation; colormap shows bed elevation (_Morlighem et al.,_ 2017; 2022).  Map origin is the 2011 position of the “North Lake” M1 moulin (68.72 ˚N 49.53 ˚W) identified in _Stevens et al._ (2015; 2018; 2024). 
 
 
+## License
+This repository is licensed under the CC BY-NC 4.0 License. See the [LICENSE](./LICENSE.md) file for more information.
+
 ## References
 Krawczynski, M. J., Behn, M. D., Das, S. B. & Joughin, I. Constraints on the lake volume required for hydro‐fracture through ice sheets. Geophysical Research Letters 36, 2008GL036765 (2009).
 
