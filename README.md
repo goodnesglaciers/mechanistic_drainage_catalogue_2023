@@ -1,4 +1,4 @@
-## Mechanistic Lake-Drainage Catalogue for 2023 (_Stevens et al.,_ In review)
+## Mechanistic Lake-Drainage Catalogue for 2023 (_Stevens et al.,_ 2026)
 Drainage mechanisms of supraglacial lakes formed within an 11,600 km$`^{2}`$, central west region of the Greenland Ice Sheet in 2023. Lake surface areas for lakes that surpass a minimum lake-surface-area threshold of 0.165 km$`^{2}`$ are tracked using the FASTER algorithm (_Williamson_, 2018; _Williamson et al.,_ 2018).  A total of 406 potential lake locations in 2023 are identified, for which we independently inspect for timing of lake filling, draining, and lake-drainage features, using all available Sentinel-1 and Sentinel-2 images. 
 
 ## **This repository includes:**
@@ -50,6 +50,8 @@ Stevens, L. A. et al. Greenland supraglacial lake drainages triggered by hydrolo
 Stevens, L. A., Hewitt, I. J., Das, S. B. & Behn, M. D. Relationship Between Greenland Ice Sheet Surface Speed and Modeled Effective Pressure. JGR Earth Surface 123, 2258–2278 (2018).
 
 Stevens, L. A. et al. Elastic Stress Coupling Between Supraglacial Lakes. JGR Earth Surface 129, e2023JF007481 (2024).
+
+Stevens, L. A. et al. Ice-sheet hydro-fracture not advanced inland by lower-elevation lake drainages in Kalaallit Nunaat. Nat Commun. (2026).
 
 Williamson, A. Full source code for the Fully Automated Supraglacial lake Tracking at Enhanced Resolution ("FASTER") algorithm. Apollo - University of Cambridge Repository. https://doi.org/10.17863/CAM.25769 (2018).
 
